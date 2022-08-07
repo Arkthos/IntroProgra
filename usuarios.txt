@@ -1,0 +1,6 @@
+Keno, b'$2b$12$VmVx5pwVbXmJlDSsA8jGiOZAzV3KczO7xFOlgzXmVCNlVR0Z31IiO'
+Kenitobb, b'$2b$12$nd/OFyr2.BMnt1CSQL8aOOI/SB.6OOfwg0snU3Szc8OJEp3lTlTIG'
+arturo, b'$2b$12$WSUhCguYbrTcyDrfqAATKe/Qm4LcCDjL640b2wt6DMy7TYo3MnAjm'
+lalok, b'$2b$12$Wwp5WwSgFxcJXd7HtH/xjezgF3z.uUNj3lsYTr/u73YnsLut3nfA6'
+rodri, b'$2b$12$yDx5r.FF6.BTQGQwX2TnbepwKuzPtTNeHKjwfe4akEdzd77Lmd2F.'
+kako, b'$2b$12$v9vIiWfOZLyffKd2BpyZZuKlsqQ5hBkLEvL7/pON1A.Th1pbUMpOC'
